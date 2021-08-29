@@ -8,15 +8,15 @@
 
 
 
-- 🔭 I’m currently pursuing my bachelor's degree in Data Science from IIT Mandi
+- 🔭 I’m currently pursuing my bachelor's degree in Mathematical Sciences from IIT(BHU) Varanasi
 - 🌱 I’m currently learning to enjoy my life to the fullest!
 - 👯 I’m looking to collaborate on Open Source Projects!
 - 💬 Ask me about 🤷‍
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/akriti-akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akriti" height="20" width="15" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gayatri-d-1891661b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri" height="20" width="15" /></a>
 
 - ⚡ Fact: It's always just an idea before it makes history!!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-kriti&label=Profile%20views&color=0e75b6&style=flat" alt="A-kriti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GayatriDRaut&label=Profile%20views&color=0e75b6&style=flat" alt="GayatriDRaut" /> </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73133055/125938816-fce8e3c5-9151-4dc7-b4e1-52f97d238523.gif" width="500"/></p>
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/akriti-akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akriti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gayatri-d-1891661b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri" height="30" width="40" /></a>
 
 </p>
 
@@ -46,4 +46,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GayatriDRaut&show_icons=true&locale=en" alt="GayatriDRaut" /></p>
